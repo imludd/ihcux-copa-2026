@@ -3,6 +3,7 @@
 
 👥 Integrantes
 Ludmilla Santos
+
 🎯 Problema Focado
 
 A interface foi criada com o objetivo de atender ao máximo de torcedores possível, considerando diferentes perfis de usuários.
