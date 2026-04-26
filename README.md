@@ -13,7 +13,7 @@ Para isso, o projeto prioriza:
 Letras grandes para melhor leitura
 Atalhos de acessibilidade
 Botão de ajuda de fácil acesso
-Uso de emojis para facilitar a identificação rápida das funções
+Uso de emojis para facilitar a identificação rápida das funções.
 
 💡 Justificativa de Design
 
@@ -27,7 +27,7 @@ Usuário acessa a tela inicial
 Seleciona a opção "Cardápio"
 Escolhe os itens desejados
 Adiciona ao carrinho
-Confirma o pagamento
+Confirma o pagamento.
 
 🎥 Ver replay
 
@@ -35,7 +35,7 @@ Usuário acessa a tela inicial
 Seleciona a opção "Replay"
 Visualiza os momentos recentes do jogo
 Escolhe o replay desejado
-Assiste diretamente no aplicativo
+Assiste diretamente no aplicativo.
 
 🚀 Objetivo Final
 
