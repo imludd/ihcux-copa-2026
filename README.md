@@ -1,42 +1,46 @@
 # ihcux-copa-2026
-📱 Protótipo:Copa Na Mão
+# ⚽ CopaNaMão – Protótipo de Baixa Fidelidade
 
-👥 Integrantes
-Ludmilla Santos
+## 👥 Integrantes
 
-🎯 Problema Focado
+* Ludmilla Santos
 
-A interface foi criada com o objetivo de atender ao máximo de torcedores possível, considerando diferentes perfis de usuários.
-A principal dor abordada foi a dificuldade de uso e acessibilidade dentro do estádio, especialmente em ambientes com muita movimentação e distrações.
+## 🎯 Problema Focado
 
-Para isso, o projeto prioriza:
-Letras grandes para melhor leitura
-Atalhos de acessibilidade
-Botão de ajuda de fácil acesso
-Uso de emojis para facilitar a identificação rápida das funções.
+O protótipo prioriza a redução das filas nos quiosques de alimentação do estádio, permitindo que o torcedor faça pedidos pelo aplicativo sem perder momentos importantes da partida.
 
-💡 Justificativa de Design
+## 💡 Justificativa de Design
 
-As informações foram organizadas com base no interesse pessoal dos torcedores, priorizando aquilo que eles mais utilizam durante a partida.
-A ideia central foi garantir que as funções mais importantes estejam sempre visíveis e acessíveis, reduzindo o tempo de navegação e melhorando a experiência geral do usuário.
+As telas foram organizadas para facilitar o acesso rápido às funções mais importantes durante o jogo. A tela inicial apresenta atalhos para mapa, pedidos e replays, utilizando botões grandes e informações visíveis para facilitar o uso em um ambiente movimentado e barulhento.
 
-🔄 Fluxo do Usuário
+## 🔄 Fluxo do Usuário
 
-🥪 Pedir um lanche
-Usuário acessa a tela inicial
-Seleciona a opção "Cardápio"
-Escolhe os itens desejados
-Adiciona ao carrinho
-Confirma o pagamento.
+### Pedir um lanche
 
-🎥 Ver replay
+Home → Cardápio Digital → Carrinho/Pagamento → Confirmação do Pedido → Notificação para Retirada
 
-Usuário acessa a tela inicial
-Seleciona a opção "Replay"
-Visualiza os momentos recentes do jogo
-Escolhe o replay desejado
-Assiste diretamente no aplicativo.
+### Ver um replay
 
-🚀 Objetivo Final
+Home → Central de Replays → Seleção do Lance → Reprodução do Vídeo
 
-Proporcionar uma experiência mais acessível, prática e inclusiva para todos os torcedores dentro do estádio.
+## 📱 Telas Desenvolvidas
+
+1. Home / Dashboard
+2. Mapa do Estádio
+3. Cardápio Digital
+4. Carrinho e Pagamento
+5. Central de Replays
+6. Perfil / Ingresso
+
+## 📂 Estrutura do Repositório
+
+```text
+ihcux-copa-2026/
+│
+├── prototipo/
+│   ├── prototipo.png
+│   └── prototipo.pdf
+│
+└── README.md
+```
+clusiva para todos os torcedores dentro do estádio.
